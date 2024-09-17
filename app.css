@@ -1,0 +1,42 @@
+body {
+    background-color: #f9f8f7;
+}
+h1 {
+    font-family: Itim, sans-serif;
+    color: #f1e5ec;
+    background-color: #973d38;
+    font-size: 3rem;
+    text-align: center;
+}
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #973d38;
+    text-align: center;
+    font-weight: 300;
+    font-variant-caps: all-petite-caps;
+}
+.navbar  {
+    a {
+    color: #bd7085;
+    font-family: Itim, sans-serif;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+}
+#navbarNavDropdown {
+    justify-content: center;
+}
+.firstcarousel {
+    width: 500px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+.restaurant {
+    width: 500px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+#chefpic {
+    height: 50%;
+    padding-right: 300px;
+}
