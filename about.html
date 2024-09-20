@@ -44,7 +44,7 @@
                 <a class="nav-link" href="./index.html">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="./menu.html">Menu</a>
+                <a class="nav-link" href="./menu.html">Today's Menu</a>
               </li>
               <li class="nav-item">
                 <a
@@ -58,33 +58,63 @@
           </div>
         </div>
       </nav>
-      <h2>About Us/Contact</h2>
+      <!-- <h2>About Us/Contact</h2> -->
     </header>
     <main>
       <div class="container-fluid">
         <div class="row">
-          <div class="col col-lg-6 col-md-6 w-25 d-flex justify-content-left">
+          <div 
+            class="col col-md-4 m-auto"
+          >
             <img
               src="images/jopopz-tallorin-Rny5u2JwahI-unsplashsmall.jpg"
               alt="chef picture"
               id="chefpic"
+              class="image-fluid"
             />
-            <div class="container">
-            
-                <label for="fname">First Name</label>
-                <input type="text" id="fname" method="get" name="firstname" placeholder="First Name">
-            
+          </div>
+          <div class="col col-md-4 me-auto d-flex flex-column justify-content-center align-items-center ">
+            <div class="row">
+              <p>At Toscana Restaurant, we are more than just a dining establishment; we are curators of an authentic Italian culinary experience that embodies the rich traditions and flavors of Italy. Our relentless dedication to culinary excellence drives us to meticulously craft each dish, infusing it with the warmth of heartfelt hospitality and the richness of genuine Italian flavors. </p>
+            </div>
+            <div class="row mt-5 w-100">
+              <form class="d-flex flex-column">
+                <label class="d-block" for="fname">First Name</label>
+                <input
+                  type="text"
+                  id="fname"
+                  method="get"
+                  name="firstname"
+                  placeholder="First Name"
+                />
+
                 <label for="lname">Last Name</label>
-                <input type="text" id="lname" method="get" name="lastname" placeholder="Last Name">
+                <input
+                  type="text"
+                  id="lname"
+                  method="get"
+                  name="lastname"
+                  placeholder="Last Name"
+                />
 
                 <label for="email">email</label>
-                <input type="email" id="email" method="get" name="email" placeholder="Email">
-            
+                <input
+                  type="email"
+                  id="email"
+                  method="get"
+                  name="email"
+                  placeholder="Email"
+                />
+
                 <label for="subject">How can we help you?</label>
-                <textarea id="subject" name="subject" placeholder="Your message here" style="height:200px"></textarea>
-            
-                <input type="submit" value="Submit">
-            
+                <textarea
+                  id="subject"
+                  name="subject"
+                  placeholder="Your message here"
+                  style="height: 200px"
+                ></textarea>
+
+                <input type="submit" value="Submit" />
               </form>
             </div>
           </div>
