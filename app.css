@@ -17,9 +17,16 @@ h2 {
     text-align: center;
     font-weight: 500;
 }
+h3 {
+    font-family: Montserrat, sans-serif;
+    color: #05431e;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+}
 .navbar  {
     a {
-    color: #872341;
+    color: #05431e;
     font-family: Montserrat, sans-serif;
     font-weight: 500;
     font-size: 1.25rem;
@@ -34,13 +41,26 @@ h2 {
     width: 100%;
     margin: 0 auto;
 }
-#chefpic {
-    padding-left: 10rem;
-}
 .menus {
     background-color: #05431e;
     display: flex;
     justify-content:space-evenly;
+}
+.hometext {
+    font-family: Montserrat, sans-serif;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+.hours {
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #05431e;
+}
+.aboutus {
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
 }
 @media (max-width: 768px) {
 .restaurant {

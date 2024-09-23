@@ -64,54 +64,48 @@
       <div class="container-fluid">
         <div class="row">
           <div 
-            class="col col-md-4 m-auto"
+            class="col-12 col-lg-4 m-auto"
           >
             <img
               src="images/jopopz-tallorin-Rny5u2JwahI-unsplashsmall.jpg"
               alt="chef picture"
               id="chefpic"
-              class="image-fluid"
+              class="image-fluid mw-100"
             />
           </div>
-          <div class="col col-md-4 me-auto d-flex flex-column justify-content-center align-items-center ">
+          <div class="col-12 col-lg-4 me-auto d-flex flex-column justify-content-center align-items-center ">
             <div class="row">
-              <p>At Toscana Restaurant, we are more than just a dining establishment; we are curators of an authentic Italian culinary experience that embodies the rich traditions and flavors of Italy. Our relentless dedication to culinary excellence drives us to meticulously craft each dish, infusing it with the warmth of heartfelt hospitality and the richness of genuine Italian flavors. </p>
+              <p class="aboutus">At Montserrat Ristorante, we are more than just a dining establishment; we are curators of an authentic culinary experience that embodies the rich traditions and flavors of Italy. Our relentless dedication to culinary excellence drives us to meticulously craft each dish, infusing it with the warmth of heartfelt hospitality and the richness of genuine Italian flavors. </p>
+              <p class="aboutus">At Montserrat Ristorante, we are more than just a dining establishment; we are curators of an authentic culinary experience that embodies the rich traditions and flavors of Italy. Our relentless dedication to culinary excellence drives us to meticulously craft each dish, infusing it with the warmth of heartfelt hospitality and the richness of genuine Italian flavors. </p>
             </div>
             <div class="row mt-5 w-100">
+              <h3>Contact Us</h3>
               <form class="d-flex flex-column">
-                <label class="d-block" for="fname">First Name</label>
+                <label class="d-block" for="name"></label>
                 <input
                   type="text"
-                  id="fname"
+                  id="name"
                   method="get"
-                  name="firstname"
-                  placeholder="First Name"
+                  name="name"
+                  placeholder="Name"
+                  required
                 />
-
-                <label for="lname">Last Name</label>
-                <input
-                  type="text"
-                  id="lname"
-                  method="get"
-                  name="lastname"
-                  placeholder="Last Name"
-                />
-
-                <label for="email">email</label>
+                <label for="email"></label>
                 <input
                   type="email"
                   id="email"
                   method="get"
                   name="email"
                   placeholder="Email"
+                  required
                 />
-
-                <label for="subject">How can we help you?</label>
+                <label for="subject"></label>
                 <textarea
                   id="subject"
                   name="subject"
                   placeholder="Your message here"
                   style="height: 200px"
+                  required
                 ></textarea>
 
                 <input type="submit" value="Submit" />
