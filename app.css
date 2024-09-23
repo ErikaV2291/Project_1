@@ -60,7 +60,11 @@ h3 {
 .aboutus {
     font-family: Montserrat, sans-serif;
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 500;
+}
+.formcolor {
+    color: #05431e;
+    background-color: #05431e;
 }
 @media (max-width: 768px) {
 .restaurant {
