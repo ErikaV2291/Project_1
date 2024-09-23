@@ -4,7 +4,7 @@ body {
 h1 {
     font-family: Italianno, sans-serif;
     color: white;
-    background-color: #973d38;
+    background-color: #b1443f;
     font-size: 4rem;
     font-weight: 500;
     letter-spacing: 0.25rem;
@@ -26,7 +26,7 @@ h3 {
 }
 .navbar  {
     a {
-    color: #05431e;
+    color: #07662d;
     font-family: Montserrat, sans-serif;
     font-weight: 500;
     font-size: 1.25rem;
