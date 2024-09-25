@@ -9,12 +9,9 @@ Overview
 This is a basic website highlighting a fictional restaurant.
 
 ### Screenshot
-<<<<<<< HEAD
 ![alt text](ReadMeScreenshot.jpg)
 
-./images/screenshot_small.jpg
-<img.scr="screenshot_small.jpg">
-<img.scr="bricks.jpg">
+
 
 
 ### User stories
@@ -31,6 +28,8 @@ This is a basic website highlighting a fictional restaurant.
 
 
 I would like for the site to be more elegant and have more structure. 
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 
