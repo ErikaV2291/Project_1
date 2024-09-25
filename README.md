@@ -9,7 +9,6 @@ Overview
 This is a basic website highlighting a fictional restaurant.
 
 ### Screenshot
-![screenshot_small](https://github.com/user-attachments/assets/516028df-221a-47b3-9e2d-72d47991e698)
 
 
 
