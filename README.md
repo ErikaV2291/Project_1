@@ -9,9 +9,8 @@ Overview
 This is a basic website highlighting a fictional restaurant.
 
 ### Screenshot
-"C:\Users\erivo\OneDrive\Desktop\restaurant images\ReadMeScreenshot.jpg"
+![screenshot_small](https://github.com/user-attachments/assets/516028df-221a-47b3-9e2d-72d47991e698)
 
-./images/screenshot_small.jpg
 
 
 ### User stories
@@ -28,8 +27,6 @@ This is a basic website highlighting a fictional restaurant.
 
 
 I would like for the site to be more elegant and have more structure. 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 
