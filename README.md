@@ -9,6 +9,7 @@ Overview
 This is a basic website highlighting a fictional restaurant.
 
 ### Screenshot
+"C:\Users\erivo\OneDrive\Desktop\restaurant images\ReadMeScreenshot.jpg"
 
 ./images/screenshot_small.jpg
 
