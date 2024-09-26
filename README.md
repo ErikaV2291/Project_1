@@ -1,9 +1,8 @@
  ## Restaurant Website
 
-This is my first website written from code. As a graphic designer, I have designed many websites, but this is the first time that I've had the opportunity to translate my vision into a reality in code.  
+This is my first website written from code. As a graphic designer, I have designed many websites, but this is the first time that I've had the opportunity to translate my vision into a reality using code.  
 
 ### Overview
-Overview
 This is a basic website highlighting a fictional restaurant. I chose the images first. I wanted to get a theme for the restaurant and match the color palette to the images and the feel of the restaurant. I named it Montserrat Ristorante after the main font that I used for the text. 
 
 ### Screenshot
