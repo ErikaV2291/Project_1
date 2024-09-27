@@ -28,6 +28,6 @@ This is a basic website highlighting a fictional restaurant. I chose the images 
 I would like to add more information and images to the site. I would like to add a form for making a reservation online and a map that would give users directions to the restaurant. 
 
 
-- Author - Erika Vogt 
+- Author - Erika Vogt  https://erikav2291.github.io/Project_1/
 
 
